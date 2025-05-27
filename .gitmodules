@@ -1,0 +1,3 @@
+[submodule "ocr-script"]
+	path = ocr-script
+	url = ./ocr-script
